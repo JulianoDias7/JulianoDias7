@@ -1,95 +1,68 @@
+<h1 align="center">👋 Olá, eu sou o Juliano Dias</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0cc0f2&center=true&vCenter=true&width=450&lines=Desenvolvedor+FullStack;React+%7C+Spring+Boot+%7C+.NET;Apaixonado+por+tecnologia+💙" alt="Typing SVG" />
+</p>
 
-###
-<div>
-<h1>Juliano Dias</h1>
+---
 
-</div>
+### ✉️ Contato
 
-**`Desenvolvedor FullStack`**
-
-###
-
-<div align="left">
-  <a href="julianodias1995@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=@gmail.com&logo=gmail&label=julianodias1995&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
+<p align="center">
+  <a href="mailto:julianodias1995@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-julianodias1995-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/JulianoDias7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-JulianoDias7-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://wa.me/5551989936380" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/badge/Whatsapp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-</div>
+</p>
 
-###
+---
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=31&section=footer&reversal=false&text=Skills&fontSize=16&fontColor=0cc0f2&fontAlign=92&fontAlignY=50&descSize=20&descAlign=50&descAlignY=50&color=0cc0f2"  />
-</div>
+### 🧠 Sobre mim
 
-###
+Sou **`desenvolvedor FullStack`** com foco em criar aplicações web modernas, escaláveis e interativas.  
+Trabalho com **React**, **Spring Boot**, **C# / .NET**, e bancos de dados **PostgreSQL**, **MySQL** e **MongoDB**.  
+Apaixonado por resolver problemas com código e aprender novas tecnologias, sempre buscando escrever código limpo e eficiente. 🚀
 
-<br clear="both">
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="59" alt="java logo"  />
-  <img width="93" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="59" alt="spring logo"  />
-  <img width="93" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="59" alt="csharp logo"  />
-  <img width="93" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="59" alt="dot-net logo"  />
-  <img width="93" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="59" alt="docker logo"  />
-  <img width="93" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="59" alt="html5 logo"  />
-  <img width="93" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="59" alt="css logo"  />
-  <img width="93" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="59" alt="bootstrap logo"  />
-  <img width="93" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="59" alt="react logo"  />
-  <img width="93" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="59" alt="javascript logo"  />
-  <img width="93" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="59" alt="nodejs logo"  />
-  <img width="93" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="59" alt="typescript logo"  />
-  <img width="93" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="59" alt="postgresql logo"  />
-  <img width="93" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="59" alt="mysql logo"  />
-  <img width="93" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="59" alt="mongodb logo"  />
-  <img width="93" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="59" alt="git logo"  />
-  <img width="93" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="59" alt="threejs logo"  />
-  <img width="93" />
-  <img src="https://img.shields.io/badge/Apache Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge" height="59" alt="apachekafka logo"  />
-</div>
+### 🚀 Tecnologias & Ferramentas
+**Frontend:**  
+  <img src="https://skillicons.dev/icons?i=js,ts,react,threejs,tailwind,bootstrap&perline=9" />
 
-###
+**Backend:**   
+<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs,docker,kafka&perline=9" />
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=31&section=header&reversal=false&text=Stats&fontSize=16&fontColor=0cc0f2&fontAlign=5&fontAlignY=50&descSize=20&descAlign=50&descAlignY=50&color=0cc0f2"  />
-</div>
+**Banco de Dados:**  
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&perline=9" />
 
-###
-
-![Juliano's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianoDias7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoDias7&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+**Outros:**  
+ <img src="https://skillicons.dev/icons?i=git,linux&perline=9" />
 
 
 
+### 📈 Estatísticas do GitHub
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JulianoDias7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoDias7&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" height="165" />
+</p>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=31&section=footer&reversal=false&text=Pacman&fontSize=16&fontColor=0cc0f2&fontAlign=92&fontAlignY=50&rotate=3&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=0cc0f2"  />
-</div>
+---
 
-###
+### 🏆 Troféus do GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JulianoDias7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+### 🎮 Meu gráfico de contribuições em modo Pac-Man
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JulianoDias7/JulianoDias7/output/pacman-contribution-graph-dark.svg">
@@ -97,5 +70,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JulianoDias7/JulianoDias7/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
 
+⭐️ _Código, curiosidade e criatividade: os três pilares do meu trabalho como **`desenvolvedor`**._
