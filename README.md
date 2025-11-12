@@ -1,15 +1,17 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=31&section=header&reversal=false&fontSize=16&fontColor=000000&fontAlign=5&fontAlignY=54&stroke=FFFFFF&strokeWidth=1&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&color=0cc0f2"  />
-</div>
+
 
 ###
+<div>
+<h1>Juliano Dias</h1>
 
-<p align="left">Hello World!!</p>
+</div>
+
+**`Desenvolvedor FullStack`**
 
 ###
 
 <div align="left">
-  <a href="julianodais1995@gmail.com" target="_blank">
+  <a href="julianodias1995@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=@gmail.com&logo=gmail&label=julianodias1995&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
@@ -21,7 +23,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=31&section=footer&reversal=false&text=Skills&fontSize=16&fontColor=000000&fontAlign=92&fontAlignY=50&stroke=FFFFFF&strokeWidth=1&descSize=20&descAlign=50&descAlignY=50&color=0cc0f2"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=31&section=footer&reversal=false&text=Skills&fontSize=16&fontColor=0cc0f2&fontAlign=92&fontAlignY=50&descSize=20&descAlign=50&descAlignY=50&color=0cc0f2"  />
 </div>
 
 ###
@@ -69,20 +71,22 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=31&section=header&reversal=false&text=Stats&fontSize=16&fontColor=000000&fontAlign=5&fontAlignY=50&stroke=FFFFFF&strokeWidth=1&descSize=20&descAlign=50&descAlignY=50&color=0cc0f2"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=31&section=header&reversal=false&text=Stats&fontSize=16&fontColor=0cc0f2&fontAlign=5&fontAlignY=50&descSize=20&descAlign=50&descAlignY=50&color=0cc0f2"  />
 </div>
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JulianoDias7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="152" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianoDias7&locale=pt-br&hide_title=false&layout=default%20&card_width=320&langs_count=12&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+![Juliano's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianoDias7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoDias7&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+
+
+
 
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=31&section=footer&reversal=false&text=Pacman&fontSize=16&fontColor=000000&fontAlign=92&fontAlignY=50&rotate=3&stroke=FFFFFF&strokeWidth=1&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=0cc0f2"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=31&section=footer&reversal=false&text=Pacman&fontSize=16&fontColor=0cc0f2&fontAlign=92&fontAlignY=50&rotate=3&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=0cc0f2"  />
 </div>
 
 ###
@@ -95,8 +99,3 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=31&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=0cc0f2"  />
-</div>
-
-###
