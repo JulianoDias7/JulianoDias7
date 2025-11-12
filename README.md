@@ -57,7 +57,7 @@ Visualização interativa do Sistema Solar feita em **Three.js + Tailwind CSS**.
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JulianoDias7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JulianoDias7&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&locale=pt-br" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoDias7&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" height="165" />
 </p>
 
