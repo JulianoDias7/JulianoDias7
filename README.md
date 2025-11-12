@@ -47,7 +47,12 @@ Apaixonado por resolver problemas com código e aprender novas tecnologias, semp
 **Outros:**  
  <img src="https://skillicons.dev/icons?i=git,linux&perline=9" />
 
+## 🚀 Projetos em Destaque
 
+### 🌌 [Sistema Solar 3D](https://github.com/JulianoDias7/SolarSystem)
+Visualização interativa do Sistema Solar feita em **Three.js + Tailwind CSS**.  
+
+![Preview do projeto](https://github-readme-stats.vercel.app/api/pin/?username=JulianoDias7&repo=SolarSystem&theme=react)
 
 ### 📈 Estatísticas do GitHub
 
