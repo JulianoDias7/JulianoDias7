@@ -56,6 +56,20 @@ Visualização interativa do Sistema Solar feita em **Three.js + Tailwind CSS**.
 
 ![Preview do projeto](https://github-readme-stats.vercel.app/api/pin/?username=JulianoDias7&repo=SolarSystem&theme=react)
 
+### 💼 [Vendas (Frontend)](https://github.com/JulianoDias7/vendas)
+Aplicação **React + Tailwind CSS** para gerenciamento de produtos, clientes e fornecedores.  
+Integra-se à API REST desenvolvida em **Spring Boot**.  
+
+![Preview do projeto](https://github-readme-stats.vercel.app/api/pin/?username=JulianoDias7&repo=vendas&theme=react)
+
+
+### 🧩 [API Vendas (Backend)](https://github.com/JulianoDias7/API-Vendas)
+API RESTful desenvolvida em **Spring Boot** para controle de produtos, clientes e fornecedores.  
+Possui endpoints organizados por entidades e integração com **SQLite**.  
+
+![Preview do projeto](https://github-readme-stats.vercel.app/api/pin/?username=JulianoDias7&repo=API-Vendas&theme=react)
+
+
 ---
 
 ## 📈 Estatísticas do GitHub
