@@ -10,7 +10,7 @@
 
 ---
 
-### ✉️ Contato
+## ✉️ Contato
 
 <p align="center">
   <a href="mailto:julianodias1995@gmail.com" target="_blank">
@@ -26,7 +26,7 @@
 
 ---
 
-### 🧠 Sobre mim
+## 🧠 Sobre mim
 
 Sou `desenvolvedor FullStack` formado em ***Análise e Desenvolvimento de Sistemas (ADS)*** e pós-graduado em ***Inteligência Artificial, Machine Learning e Business Intelligence***.
 Trabalho com ***React, Spring Boot, C# / .NET, e bancos de dados PostgreSQL, MySQL e MongoDB***.
@@ -34,7 +34,7 @@ Apaixonado por resolver problemas com código e aprender novas tecnologias, semp
 
 ---
 
-### 🚀 Tecnologias & Ferramentas
+## 🚀 Tecnologias & Ferramentas
 **Frontend:**  
   <img src="https://skillicons.dev/icons?i=js,ts,react,threejs,tailwind,bootstrap&perline=9" />
 
@@ -46,6 +46,8 @@ Apaixonado por resolver problemas com código e aprender novas tecnologias, semp
 
 **Outros:**  
  <img src="https://skillicons.dev/icons?i=git,linux&perline=9" />
+ 
+---
 
 ## 🚀 Projetos em Destaque
 
@@ -54,7 +56,9 @@ Visualização interativa do Sistema Solar feita em **Three.js + Tailwind CSS**.
 
 ![Preview do projeto](https://github-readme-stats.vercel.app/api/pin/?username=JulianoDias7&repo=SolarSystem&theme=react)
 
-### 📈 Estatísticas do GitHub
+---
+
+## 📈 Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JulianoDias7&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&locale=pt-br" height="165" />
@@ -63,7 +67,7 @@ Visualização interativa do Sistema Solar feita em **Three.js + Tailwind CSS**.
 
 ---
 
-### 🏆 Troféus do GitHub
+## 🏆 Troféus do GitHub
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JulianoDias7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
@@ -71,7 +75,7 @@ Visualização interativa do Sistema Solar feita em **Three.js + Tailwind CSS**.
 
 ---
 
-### 🎮 Meu gráfico de contribuições em modo Pac-Man
+## 🎮 Meu gráfico de contribuições em modo Pac-Man
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JulianoDias7/JulianoDias7/output/pacman-contribution-graph-dark.svg">
