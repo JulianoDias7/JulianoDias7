@@ -50,25 +50,38 @@ Apaixonado por resolver problemas com código e aprender novas tecnologias, semp
 ---
 
 ## 🚀 Projetos em Destaque
+<div>
 
-### 🌌 [Sistema Solar 3D](https://github.com/JulianoDias7/SolarSystem)
-Visualização interativa do Sistema Solar feita em **Three.js + Tailwind CSS**.  
+  
+### 🔥 [NEXT + TypeScript + Firebase](https://github.com/JulianoDias7/Next_Firebase_CRUD)
+Projeto básico que demonstra como integrar o Firebase ao Next.js para criar operações básicas de banco de dados em tempo real.
+<a href="https://github.com/JulianoDias7/Next_Firebase_CRUD">
+![Preview do projeto](https://github-readme-stats.vercel.app/api/pin/?username=JulianoDias7&repo=Next_Firebase_CRUD&theme=react)
+</a>
 
-![Preview do projeto](https://github-readme-stats.vercel.app/api/pin/?username=JulianoDias7&repo=SolarSystem&theme=react)
 
 ### 💼 [Vendas (Frontend)](https://github.com/JulianoDias7/vendas)
 Aplicação **React + Tailwind CSS** para gerenciamento de produtos, clientes e fornecedores.  
 Integra-se à API REST desenvolvida em **Spring Boot**.  
-
+<a href="https://github.com/JulianoDias7/vendas">
 ![Preview do projeto](https://github-readme-stats.vercel.app/api/pin/?username=JulianoDias7&repo=vendas&theme=react)
-
+</a>
 
 ### 🧩 [API Vendas (Backend)](https://github.com/JulianoDias7/API-Vendas)
 API RESTful desenvolvida em **Spring Boot** para controle de produtos, clientes e fornecedores.  
 Possui endpoints organizados por entidades e integração com **SQLite**.  
-
+<a href="https://github.com/JulianoDias7/API-Vendas">
 ![Preview do projeto](https://github-readme-stats.vercel.app/api/pin/?username=JulianoDias7&repo=API-Vendas&theme=react)
+</a>
 
+
+### 🌌 [Sistema Solar 3D](https://github.com/JulianoDias7/SolarSystem)
+Visualização interativa do Sistema Solar feita em **Three.js + Tailwind CSS**.  
+<a href="https://github.com/JulianoDias7/SolarSystem">
+![Preview do projeto](https://github-readme-stats.vercel.app/api/pin/?username=JulianoDias7&repo=SolarSystem&theme=react)
+</a>
+
+</div>
 
 ---
 
