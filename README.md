@@ -1,4 +1,8 @@
-<h1 align="center">👋 Olá, eu sou o Juliano Dias</h1>
+<div align="center">
+  
+# 👋 Olá, eu sou o [Juliano Dias](https://drive.google.com/file/d/1MLS8hL2Xvo-L020lj8W8-Pq1g-Wq9u96/view?usp=sharing) 
+
+</div >
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0cc0f2&center=true&vCenter=true&width=450&lines=Desenvolvedor+FullStack;React+%7C+Spring+Boot+%7C+.NET;Apaixonado+por+tecnologia+💙" alt="Typing SVG" />
