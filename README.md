@@ -54,7 +54,7 @@ Apaixonado por resolver problemas com código e aprender novas tecnologias, semp
 
   
 ### 🔥 [NEXT + TypeScript + Firebase](https://github.com/JulianoDias7/Next_Firebase_CRUD)
-Projeto básico que demonstra como integrar o Firebase ao Next.ts para criar operações básicas de banco de dados em tempo real.
+Projeto básico que demonstra como integrar o Firebase ao Next.js para criar operações básicas de banco de dados em tempo real.
 <a href="https://github.com/JulianoDias7/Next_Firebase_CRUD">
 ![Preview do projeto](https://github-readme-stats.vercel.app/api/pin/?username=JulianoDias7&repo=Next_Firebase_CRUD&theme=react)
 </a>
