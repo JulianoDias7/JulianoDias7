@@ -60,7 +60,7 @@ Apaixonado por resolver problemas com código e aprender novas tecnologias, semp
 ### 🔥 [NEXT + TypeScript + Firebase](https://github.com/JulianoDias7/Next_Firebase_CRUD)
 Projeto básico que demonstra como integrar o Firebase ao Next.js para criar operações básicas de banco de dados em tempo real.
 <a href="https://github.com/JulianoDias7/Next_Firebase_CRUD">
-![Preview do projeto](https://github-readme-stats.vercel.app/api/pin/?username=JulianoDias7&repo=Next_Firebase_CRUD&theme=react)
+
 </a>
 
 
@@ -68,21 +68,21 @@ Projeto básico que demonstra como integrar o Firebase ao Next.js para criar ope
 Aplicação **React + Tailwind CSS** para gerenciamento de produtos, clientes e fornecedores.  
 Integra-se à API REST desenvolvida em **Spring Boot**.  
 <a href="https://github.com/JulianoDias7/vendas">
-![Preview do projeto](https://github-readme-stats.vercel.app/api/pin/?username=JulianoDias7&repo=vendas&theme=react)
+
 </a>
 
 ### 🧩 [API Vendas (Backend)](https://github.com/JulianoDias7/API-Vendas)
 API RESTful desenvolvida em **Spring Boot** para controle de produtos, clientes e fornecedores.  
 Possui endpoints organizados por entidades e integração com **SQLite**.  
 <a href="https://github.com/JulianoDias7/API-Vendas">
-![Preview do projeto](https://github-readme-stats.vercel.app/api/pin/?username=JulianoDias7&repo=API-Vendas&theme=react)
+
 </a>
 
 
 ### 🌌 [Sistema Solar 3D](https://github.com/JulianoDias7/SolarSystem)
 Visualização interativa do Sistema Solar feita em **Three.js + Tailwind CSS**.  
 <a href="https://github.com/JulianoDias7/SolarSystem">
-![Preview do projeto](https://github-readme-stats.vercel.app/api/pin/?username=JulianoDias7&repo=SolarSystem&theme=react)
+
 </a>
 
 </div>
@@ -91,20 +91,10 @@ Visualização interativa do Sistema Solar feita em **Three.js + Tailwind CSS**.
 
 ## 📈 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JulianoDias7&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&locale=pt-br" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoDias7&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&cache_seconds=3600" height="205" />
-</p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JulianoDias7&theme=tokyonight" /> </p>
 
 ---
 
-## 🏆 Troféus do GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JulianoDias7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
 
 ## 🎮 Meu gráfico de contribuições em modo Pac-Man
 
