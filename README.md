@@ -5,7 +5,7 @@
 </div >
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0cc0f2&center=true&vCenter=true&width=450&lines=Desenvolvedor+FullStack;React+%7C+Spring+Boot+%7C+.NET;Apaixonado+por+tecnologia+💙" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0cc0f2&center=true&vCenter=true&width=450&lines=Desenvolvedor+FullStack;React+%7C+Spring+Boot+%7C+JS;Apaixonado+por+tecnologia+💙" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JulianoDias7&color=blueviolet&style=flat-square" alt="profile views" />
@@ -33,7 +33,7 @@
 ## 🧠 Sobre mim
 
 Sou `desenvolvedor FullStack` formado em ***Análise e Desenvolvimento de Sistemas (ADS)*** e pós-graduado em ***Inteligência Artificial, Machine Learning e Business Intelligence***.
-Trabalho com ***React, Spring Boot, C# / .NET, e bancos de dados PostgreSQL, MySQL e MongoDB***.
+Trabalho com ***React, Spring Boot, JS, e bancos de dados PostgreSQL, MySQL e MongoDB***.
 Apaixonado por resolver problemas com código e aprender novas tecnologias, sempre buscando escrever código limpo e eficiente. 🚀
 
 ---
