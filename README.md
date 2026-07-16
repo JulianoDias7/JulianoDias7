@@ -32,7 +32,7 @@
 
 ## 🧠 Sobre mim
 
-Sou `desenvolvedor FullStack` formado em ***Análise e Desenvolvimento de Sistemas (ADS)*** e pós-graduado em ***Inteligência Artificial, Machine Learning e Business Intelligence***.
+Sou `desenvolvedor FullStack` formado em ***Sistemas de Informação*** e pós-graduado em ***Inteligência Artificial, Machine Learning e Business Intelligence***.
 Trabalho com ***React, Spring Boot, JS, e bancos de dados PostgreSQL, MySQL e MongoDB***.
 Apaixonado por resolver problemas com código e aprender novas tecnologias, sempre buscando escrever código limpo e eficiente. 🚀
 
